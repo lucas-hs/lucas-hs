@@ -1,7 +1,7 @@
 # 💫 About Me:
 ```yaml
   name: Lucas Casarini
-  localted_in: São Paulo, Brazil
+  located_in: São Paulo, Brazil
   education:
   [
     "System Analysis - Mackenzie (UPM)",
