@@ -7,17 +7,7 @@
     "System Analysis - Mackenzie (UPM)",
     "Information Technology - SENAC"
   ]
-  fields_of_interests:
-  [
-    "Data Analysis",
-    "Desktop Development",
-    "Web Development",
-    "Statistics and Probability",
-    "Cibersecurity"
-    "Machine Learning"
-  ]
   currently_learning: ["Linux, C# Desktop Development, Data Analysis/Statistics with Python and R"]
-  current_goals_2026: ["Create 10+ Projects"]
   hobbies: ["Reading, Writing, Music, Movies and Drawing"]
 ```
 
